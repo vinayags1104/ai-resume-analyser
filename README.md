@@ -1,1 +1,2 @@
 # ai-resume-analyser
+AI Resume Analyser built with Python, Anthropic Claude API, PyMuPDF and Streamlit. Upload a PDF resume and paste a job description to get a match score, strengths and gaps analysis.
